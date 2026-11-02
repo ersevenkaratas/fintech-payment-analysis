@@ -73,7 +73,7 @@ PayFlow yönetiminin veri odaklı kararlar alabilmesi için şu kritik sorular y
 ├── sql/
 │   └── payment_analysis.sql
 ├── dashboard/
-│   └── PayFlow_-_Payment_Transactions_Dashboard.pdf
+│   └── Payment_Performance_Dashboard.pdf
 ├── insights/
 │   └── insights_and_recommendations.md
 └── README.md
