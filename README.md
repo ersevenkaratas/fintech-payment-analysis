@@ -61,7 +61,7 @@ PayFlow yönetiminin veri odaklı kararlar alabilmesi için şu kritik sorular y
 ---
 
 ## 📈 Dashboard & Görselleştirme
-* [View Payment Performance Dashboard (PDF)](dashboard/PayFlow_-_Payment_Transactions_Dashboard.pdf) 📄
+* [View Payment Performance Dashboard (PDF)](dashboard/Payment_Performance_Dashboard.pdf) 📄
 * **Live Looker Studio Dashboard:** [View Dashboard](https://datastudio.google.com/reporting/3daf67d6-4637-4e1c-922f-faa849e33655) 🌐
 
 ---
